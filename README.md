@@ -58,7 +58,7 @@ By effectively addressing each layer and conducting systematic experiments, the 
 Describe the major technical or non-technical challenges your team encountered.
 
 ## 🏃 How to Run
-1. Run file https://github.com/ewfx/aidhp-deep-seekers/blob/main/code/Fashion_Search_AI.ipynb
+1. Run file [https://github.com/ewfx/aidhp-deep-seekers/blob/main/code/Fashion_Search_AI.ipynb](https://github.com/ewfx/aidhp-deep-seekers/blob/main/code/src/Fashion_Search_AI.ipynb)
    ```
 
 ## 🏗️ Tech Stack
