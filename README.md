@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-The main objective of this project is to develop a fashion query response system that utilizes AI models to provide detailed and user-friendly responses to fashion-related queries. The system aims to enhance user experience by generating informative and contextually relevant answers, thereby assisting users in finding fashion items based on their preferences.
+The main objective of this code is to develop a fashion query response system that utilizes AI models to provide detailed and user-friendly responses to fashion-related queries. The system aims to enhance user experience by generating informative and contextually relevant answers, thereby assisting users in finding fashion items based on their preferences.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
