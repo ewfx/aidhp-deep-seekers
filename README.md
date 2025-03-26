@@ -65,6 +65,6 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [Jyothirmayi Kolachalam | [LinkedIn]([#](https://www.linkedin.com/in/jyothirmayi-kolachalam-653b5117/))
-- **Teammate 2** - [ Rahul Goyal | [LinkedIn]([#](https://www.linkedin.com/in/rahul-goyal-6a94b197/))
-- **Aniket** - [Linkedin](https://www.linkedin.com/in/aniketaniket/)
+- **Jyothirmayi Kolachalam** | [LinkedIn](https://www.linkedin.com/in/jyothirmayi-kolachalam-653b5117/)
+- **Rahul Goyal** | [LinkedIn](https://www.linkedin.com/in/rahul-goyal-6a94b197/)
+- **Aniket** | [Linkedin](https://www.linkedin.com/in/aniketaniket/)
