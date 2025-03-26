@@ -68,3 +68,4 @@ Describe the major technical or non-technical challenges your team encountered.
 - **Jyothirmayi Kolachalam** | [LinkedIn](https://www.linkedin.com/in/jyothirmayi-kolachalam-653b5117/)
 - **Rahul Goyal** | [LinkedIn](https://www.linkedin.com/in/rahul-goyal-6a94b197/)
 - **Aniket** | [Linkedin](https://www.linkedin.com/in/aniketaniket/)
+- **Abhishek Upadhayay** | [Linkedin](https://www.linkedin.com/in/upadhayayabhi/)
